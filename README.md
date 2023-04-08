@@ -1,8 +1,8 @@
 <div align=center>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=FFFFFF&background=0019BD&center=true&vCenter=true&width=1000&height=100&lines=Hello!+I'm+Dohyun+Front-End+Developer)](https://git.io/typing-svg)
+<br><br><br>
   
-<br>**Welcome to my github!☺️**<br><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=1000&color=300C3D&center=true&width=1000&height=80&lines=Hello!+I'm+Du0Du0)](https://git.io/typing-svg)
+**Welcome to my github!☺️**<br><br>
   *I'm Do-Hyun. My main skills are Javascript, Kotlin.<br>
   I am a developer that continues to grow in the future🔥<br>
   Please look forward to my growth. Bye~<br>
@@ -10,7 +10,7 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%230019BD&title_bg=%23CCCCCC&icon=hey.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
   
 -----------------------------------------------
-  
+<br>
 
 **🌱 My 🌱** 
 
@@ -32,9 +32,9 @@
 ![oracle](https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white)<br>
 ![androidstudio](https://img.shields.io/badge/androidstudio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
-  
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Du0Du0&layout=compact"><br>
+![adobephotoshop](https://img.shields.io/badge/adobephotoshop-31A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![adobeillustrator](https://img.shields.io/badge/adobeillustrator-FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
 
 
   
